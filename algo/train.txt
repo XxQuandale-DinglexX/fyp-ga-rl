@@ -1,0 +1,17 @@
+agent = DQNLayoutRLAgent(num_cells_x=10, num_cells_y=10)
+agent.load("dqn_layout_general.pt")
+
+machines, seq, robot_pos, bounds = generate_problem(999)  # unseen
+agent.set_problem(machines, seq, robot_pos, bounds)
+
+pop_size = 200
+chroms = []
+success_count = 0
+
+for _ in range(pop_size):
+    _, _, chrom, success = agent.generate_layout_greedy(max_attempts_per_machine=30)
+    chroms.append(chrom)
+    success_count += int(success)
+
+print("Success rate:", success_count / pop_size)
+rl_initial_population = np.stack(chroms, axis=0)

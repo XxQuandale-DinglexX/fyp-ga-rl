@@ -1,0 +1,90 @@
+Starting Genetic Algorithm Optimization
+Generation 0: Best=93.52, Avg=137.02, Diversity=402.231
+Generation 20: Best=63.17, Avg=78.54, Diversity=407.785
+Generation 40: Best=43.44, Avg=50.20, Diversity=228.305
+Generation 20: Best=63.17, Avg=78.54, Diversity=407.785
+Generation 40: Best=43.44, Avg=50.20, Diversity=228.305
+Generation 40: Best=43.44, Avg=50.20, Diversity=228.305
+Generation 60: Best=33.47, Avg=35.65, Diversity=122.017
+Generation 80: Best=29.21, Avg=31.02, Diversity=98.387
+Generation 100: Best=28.22, Avg=29.00, Diversity=90.355
+Generation 120: Best=27.84, Avg=28.65, Diversity=112.296
+Generation 140: Best=27.77, Avg=28.35, Diversity=75.372
+Generation 160: Best=27.68, Avg=28.21, Diversity=207.472
+Generation 180: Best=27.54, Avg=28.04, Diversity=89.649
+Generation 200: Best=27.53, Avg=28.07, Diversity=72.165
+Generation 220: Best=27.52, Avg=28.04, Diversity=132.768
+Generation 240: Best=27.52, Avg=27.95, Diversity=201.026
+Generation 260: Best=27.51, Avg=28.11, Diversity=184.926
+Generation 280: Best=27.51, Avg=28.35, Diversity=109.977
+Generation 300: Best=27.51, Avg=28.20, Diversity=91.025
+Generation 320: Best=27.51, Avg=28.21, Diversity=92.333
+Generation 340: Best=27.51, Avg=28.17, Diversity=126.684
+Generation 360: Best=27.50, Avg=28.00, Diversity=101.156
+Generation 380: Best=27.50, Avg=27.99, Diversity=125.149
+Generation 400: Best=27.50, Avg=27.94, Diversity=129.421
+Generation 420: Best=27.50, Avg=28.15, Diversity=124.378
+Generation 440: Best=27.50, Avg=27.92, Diversity=87.363
+Generation 460: Best=27.50, Avg=28.07, Diversity=86.311
+Generation 480: Best=27.50, Avg=28.18, Diversity=93.067
+
+=== OPTIMIZATION RESULTS ===
+Best Fitness: 27.45
+Total Distance: 25.91 units
+Execution Time: 1345.12 seconds
+Generations: 500
+
+Final Machine Positions:
+Machine 1: Position=(-2.69, -0.40), Rotation=0.0°
+Machine 2: Position=(1.81, -2.00), Rotation=360.0°
+Machine 3: Position=(0.56, 2.06), Rotation=90.0°
+Machine 4: Position=(0.93, 5.60), Rotation=0.0°
+Machine 5: Position=(4.47, 8.44), Rotation=270.0°
+Machine 6: Position=(7.97, 5.57), Rotation=270.0°
+Machine 7: Position=(6.97, 1.07), Rotation=180.0°
+Machine 8: Position=(3.56, 1.44), Rotation=90.0°
+
+==============================================================
+
+Starting Reinforcement Learning - Genetic Algorithm...
+Gen 0: Best=97.21, Avg=135.91, Diversity=411.29, MutRate=0.120
+Gen 20: Best=63.95, Avg=93.60, Diversity=395.99, MutRate=0.500
+Gen 40: Best=52.55, Avg=72.66, Diversity=387.92, MutRate=0.500
+Gen 60: Best=44.65, Avg=65.20, Diversity=393.27, MutRate=0.500
+Gen 80: Best=44.04, Avg=77.78, Diversity=441.43, MutRate=0.500
+Gen 100: Best=41.52, Avg=57.05, Diversity=379.04, MutRate=0.500
+Gen 120: Best=41.52, Avg=66.65, Diversity=402.64, MutRate=0.500
+Gen 140: Best=35.37, Avg=38.37, Diversity=175.82, MutRate=0.500
+Gen 160: Best=31.01, Avg=31.39, Diversity=11.54, MutRate=0.500
+Gen 180: Best=29.18, Avg=29.82, Diversity=54.80, MutRate=0.500
+Gen 200: Best=28.10, Avg=28.37, Diversity=14.54, MutRate=0.500
+Gen 220: Best=27.71, Avg=28.32, Diversity=352.94, MutRate=0.500
+Gen 240: Best=27.71, Avg=47.69, Diversity=209.72, MutRate=0.500
+Gen 260: Best=27.59, Avg=47.00, Diversity=208.37, MutRate=0.500
+Gen 280: Best=27.59, Avg=50.24, Diversity=210.36, MutRate=0.500
+Gen 300: Best=27.59, Avg=46.34, Diversity=209.77, MutRate=0.500
+Gen 320: Best=27.59, Avg=43.51, Diversity=213.85, MutRate=0.500
+Gen 340: Best=27.59, Avg=43.66, Diversity=355.41, MutRate=0.500
+Gen 360: Best=27.59, Avg=41.03, Diversity=316.34, MutRate=0.500
+Gen 380: Best=27.59, Avg=48.43, Diversity=220.78, MutRate=0.500
+Gen 400: Best=27.55, Avg=30.76, Diversity=351.34, MutRate=0.500
+Gen 420: Best=27.55, Avg=27.99, Diversity=184.89, MutRate=0.500
+Gen 440: Best=27.28, Avg=27.35, Diversity=335.43, MutRate=0.500
+Gen 460: Best=27.28, Avg=29.10, Diversity=356.74, MutRate=0.500
+Gen 480: Best=27.28, Avg=28.32, Diversity=366.10, MutRate=0.500
+
+=== OPTIMIZATION RESULTS ===
+Best Fitness: 27.21
+Total Distance: 25.75 units
+Execution Time: 730.52 seconds
+Generations: 500
+
+Final Machine Positions:
+Machine 1: Position=(1.40, -2.09), Rotation=90.0°
+Machine 2: Position=(4.96, -0.09), Rotation=90.0°
+Machine 3: Position=(2.54, 2.20), Rotation=90.0°
+Machine 4: Position=(4.16, 5.73), Rotation=180.0°
+Machine 5: Position=(1.14, 8.43), Rotation=270.0°
+Machine 6: Position=(-3.37, 9.07), Rotation=0.0°
+Machine 7: Position=(-2.68, 4.55), Rotation=90.0°
+Machine 8: Position=(-0.86, 1.52), Rotation=180.0°
